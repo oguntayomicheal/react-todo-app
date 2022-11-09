@@ -63,3 +63,10 @@
     outline: none;
     border: none;
   }
+
+  #submit {
+    height: 40px;
+    border: none;
+    padding: 0 5px;
+    float: right;
+  }
